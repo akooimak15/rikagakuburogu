@@ -1,0 +1,15 @@
+h1 {
+    font-size: 60px;
+    color: red;
+    text-align: center;
+    font-family: serif;
+}
+p {
+    font-size: 30px;
+    color: seagreen;
+    text-align: center;
+}
+li {
+    font-family: serif;
+    color: red;
+}
