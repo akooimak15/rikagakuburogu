@@ -10,6 +10,7 @@ p {
     text-align: center;
 }
 li {
+    font-size: 25px;
     font-family: serif;
     color: red;
 }
